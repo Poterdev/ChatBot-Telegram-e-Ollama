@@ -3,15 +3,6 @@
 
 Este projeto implementa um chatbot inteligente para vendas de carros usando Telegram como interface, RAG (Retrieval Augmented Generation) para contexto e LLM local para processamento de linguagem natural.
 
-### 📋 Índice
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Instalação](#instalação)
-- [Configuração](#configuração)
-- [Uso](#uso)
-- [Contato](#contato)
 
 ### 🎯 Sobre o Projeto
 O projeto visa automatizar e melhorar o processo de vendas de carros através de um chatbot inteligente que pode:
